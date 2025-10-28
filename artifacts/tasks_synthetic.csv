@@ -1,0 +1,3 @@
+task_id,description,deadline,assigned_user,category,priority,status
+T0001,Finish AI report,2025-10-28,user_1,Work,High,Open
+T0002,Fix bug,2025-10-29,user_2,Bug,Low,Closed
